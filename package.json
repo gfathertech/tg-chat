@@ -17,7 +17,6 @@
     "pm2": "^5.3.0"
   },
   "scripts": {
-    "start": "bunx pm2 start pm2.config.mjs",
-    "pm2": "bunx pm2 start pm2.config.mjs"
+    "start": "pm2 start pm2.config.mjs"
   }
 }
