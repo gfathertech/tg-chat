@@ -1,4 +1,4 @@
-# Amatullah Bot
+# Amatullah Ai
 A playful Telegram bot created by Haki 🧠💬
 
 ## Features
