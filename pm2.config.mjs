@@ -2,10 +2,9 @@ export default {
   apps: [
     {
       name: "amatullah",
-      script: "./index.ts",         
-      
-      interpreter: "bun",         
+      script: "bun",               // 🧠 set this to the actual binary
+      args: ["bun index.ts"],          // 💥 pass your file here
       watch: false
     }
   ]
-};
+}
