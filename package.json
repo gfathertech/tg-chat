@@ -14,5 +14,8 @@
     "dotenv": "^16.5.0",
     "hono": "^4.8.1",
     "telegraf": "^4.16.3"
+  },
+  "scripts": {
+    "start": "bun run index.ts"
   }
 }
