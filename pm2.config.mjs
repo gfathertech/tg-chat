@@ -1,13 +1,8 @@
-export default {
-  apps: [
-    {
-      name: 'amatullah',
-      script: 'index.ts',
-      interpreter: 'bun',
-      watch: false,
-      env: {
-        NODE_ENV: 'production'
-      }
-    }
-  ]
-}
+module.exports = {
+  name: "amatullah", // Name of your application
+  script: "index.ts", // Entry point of your application
+  interpreter: "bun", // Bun interpreter
+  env: {
+    PATH: `${process.env.HOME}/.bun/bin:${process.env.PATH}`, // Add "~/.bun/bin/bun" to PATH
+  },
+};
