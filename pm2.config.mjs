@@ -1,10 +1,13 @@
 export default {
   apps: [
     {
-      name: "amatullah",
-      script: "/bin/bash",               // Idk if I should leave this
-      args: ["bun index.ts"],      // added this in args
-      watch: false
+      name: 'amatullah',
+      script: 'index.ts',
+      interpreter: 'bun',
+      watch: false,
+      env: {
+        NODE_ENV: 'production'
+      }
     }
   ]
 }
