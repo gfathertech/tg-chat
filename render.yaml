@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: amatullah
+    env: bun
+    buildCommand: bun install
+    startCommand: bun run index.ts
+    port: 3000
