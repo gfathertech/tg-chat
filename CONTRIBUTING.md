@@ -3,7 +3,7 @@
 Thank you for wanting to help~ 🧸✨  
 Here’s how to contribute:
 
-## 🛠 How to Contribute
+## 🛠 Want to Contribute?
 
 - Fork this repo
 - Create a new branch: `git checkout -b feature-name`
