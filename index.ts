@@ -1,3 +1,4 @@
+// i used bun + hono (dont get confused)
 import { Hono } from "hono";
 import { conn } from "./src/client";
 const app = new Hono()
