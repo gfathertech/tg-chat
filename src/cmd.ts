@@ -11,7 +11,7 @@ export async function loadCommands(bot: Telegraf<any>) {
 
   for (const file of files) {
     if (file.endsWith(".ts") || file.endsWith(".js")) {
-      const { default: command } = await import(`./commands/${file}`);
+      const { default: command } = await import(`../commands/${file}`);
 
       if (command.name && typeof command.execute === "function") {
         bot.command(command.name, command.execute);
