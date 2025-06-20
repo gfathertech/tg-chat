@@ -27,3 +27,4 @@
     "noPropertyAccessFromIndexSignature": false
   }
 }
+// i use bun + hono (dont get confused)
