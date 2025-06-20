@@ -32,7 +32,7 @@ bun install
 ```
 
 ### 🔐 Add Bot Token
-Create or edit `src/config.ts` like this:
+Create or edit `/config.ts` like this:
 ```ts
 export default {
   BOT_TOKEN: process.env.BOT_TOKEN || "your_token_here"
