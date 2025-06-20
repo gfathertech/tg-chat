@@ -2,8 +2,8 @@ export default {
   apps: [
     {
       name: "amatullah",
-      script: "bun",               // 🧠 set this to the actual binary
-      args: ["bun index.ts"],          // 💥 pass your file here
+      script: "bun",               // Idk if I should leave this
+      args: ["bun index.ts"],      // added this in args
       watch: false
     }
   ]
