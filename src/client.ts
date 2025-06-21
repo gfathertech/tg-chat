@@ -16,6 +16,7 @@ export async function conn() {
             const q = msg.text;
             const res = await ama(q, ctx.from?.id)
             console.log(ctx.from?.id)
+            console.log(q)           
             await ctx.reply(res)
         }
     })
