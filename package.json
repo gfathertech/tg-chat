@@ -18,7 +18,7 @@
   },
   "scripts": {
   "dev": "bun run index.ts",
-  "start": "pm2 start ~/.bun/bin/bun --name ama --interpreter none -- index.ts",
+  "start": "pm2 start bun index.ts",
   "stop": "pm2 stop ama",
   "restart": "pm2 restart ama",
   "delete": "pm2 delete ama",
