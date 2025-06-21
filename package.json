@@ -17,8 +17,11 @@
     "pm2": "^5.3.0"
   },
   "scripts": {
-    "start": "pm2 start bun index.ts --attach --name ama",
-    "stop": "pm2 stop --attach --name ama",
-    "restart": "pm2 restart --attach --name ama"
-  }
+  "dev": "bun run index.ts",
+  "start": "pm2 start ~/.bun/bin/bun --name ama --interpreter none -- index.ts",
+  "stop": "pm2 stop ama",
+  "restart": "pm2 restart ama",
+  "delete": "pm2 delete ama",
+  "logs": "pm2 logs ama"
+}
 }
