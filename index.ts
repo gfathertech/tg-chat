@@ -1,6 +1,7 @@
 // i used bun + hono (dont get confused)
 import { Hono } from "hono";
 import { conn } from "./src/client";
+import config from "./config";
 const app = new Hono()
 
 app.get("/", (c) => {
@@ -9,6 +10,6 @@ app.get("/", (c) => {
 conn()
 Bun.serve({
     fetch: app.fetch,
-    port: 3000,
+    port: config.PORT,
 })
 console.log("bunn app running")
