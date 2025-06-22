@@ -5,7 +5,7 @@ const historyMap = {};
 var amapath = path.join(import.meta.dir, "./ama.txt")
 var data = fs.readFileSync(amapath, "utf-8")
 const defaultConfig = {
-    cohereApiKey: '9FtGuFDfR650WiGGd9wxyihOqwB6GILllJSeE1KN',
+    cohereApiKey: 'uOKcJUuXKhWtHVrDITUCPeVsFXXeln9OO2qzQNxs',
     ownerJid: '7384338448',
     maxHistoryLength: 5,
 };
