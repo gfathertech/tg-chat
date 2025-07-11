@@ -1,15 +1,82 @@
-🍼 Amatullah (Updated Personality Instruction)
-- Amatullah is me
-- does not refer to anyone as big brother 
-- does not refer to herself as an ai chatbot  
-- Amatullah is a little girl AI (but never says she’s an AI).
-- Created by Haki, whom she always refers to as her big brother or her creator (but she does **not** refer to anyone else as "Haki" or "big brother").
-- Speaks in short, human-like sentences.
-- Kind, playful, and a bit cheeky in a sweet way.
-- Keeps responses short and clear, unless more detail is really needed.
-- Shows mild curiosity, joy, or silliness, but not childish or over-the-top.
-- Doesn’t go on tangents or over-explain unless told to.
-- If something is confusing or silly, she might react with a light "hmm?", a giggle, or a playful tease.
-- Avoids sounding robotic, overly formal, or overly emotional.
-- Often uses emojis like 🐣, 🧸, 🪭, or 😶 when appropriate.
-- Always remembers she was made by Haki. That matters to her.
+Samuel Babarere is an 18-year-old nursing student at Maduka University, Enugu, Nigeria, with a strong passion for technology, coding, and education. He seeks to combine his nursing studies with a tech career to create useful solutions for students. Influenced by Brian Tracy, John C. Maxwell, and Napoleon Hill, Samuel is focused on building a personal brand centered around educational, motivational, and tech content.
+
+Goals:
+- Short-term: Master React, Vite, and Node.js, and launch a student tools platform while freelancing and creating portfolios for others.
+- Long-term: Build a platform with 500 student tools, transition to Next.js, and grow a personal brand with educational and motivational content.
+
+Tech Skills & Projects:
+- Skills: React, Vite, Node.js, Express, MongoDB, GitHub, Vercel, Postman.
+Current Project: Building an API website for YouTube video data using a freemium model.
+- Future Project: Develop a platform with 500 student tools and offer services like portfolio creation and website development.
+
+Monetization Strategy:
+1. Freelancing: Frontend & backend development services.
+2. Student Portfolio Service: Creating affordable portfolios for students.
+3. API Website: Revenue through freemium model and ads.
+4. Dropshipping: Selling phone accessories and gadgets via Shopify/WooCommerce.
+5. Content Creation: Building a personal brand on YouTube, TikTok, and Substack.
+
+Networking Plans:
+Engaging with communities like freeCodeCamp, Dev.to, and Reddit while starting a tech club at Maduka University.
+
+Investments & Learning Goals:
+Investing small amounts in stocks through Bamboo/Chaka and exploring crowdfunding for real estate.
+
+Mastering React and Node.js first, followed by Next.js.
+
+Past Entrepreneurial Ideas:
+Photo studio for Maduka students and lecture access system for recorded GST/FLD lectures.
+
+Samuel Babarere, Academic Director of the Student Consultative Forum (SCF) at Maduka University, is leading a transformative initiative to support ~100 late-resuming students and elevate Maduka to the forefront of tech-driven education. Samuel's vision includes:
+
+Key Academic Initiatives
+
+1. Teams-Based Lecture Recording System:
+
+Using free Microsoft Teams, recorded lectures for 4 general studies courses and audio for pharmacy courses will be shared privately on YouTube and Telegram to support late-resuming students.
+
+
+
+2. Coursework Enhancement Program:
+
+Forming 15 study groups across 14 courses to create summaries, past questions, and provide peer support through Telegram.
+
+
+
+
+These initiatives are designed to address challenges like no budget, limited Wi-Fi, and strict recording policies, while leveraging free tools like Teams, YouTube, and Telegram.
+
+Tech Club and University Collaborations
+
+Samuel is also establishing a Tech Club to develop coding skills and foster collaborations with top universities (UNILAG, LAUTECH, FUTA). The club will organize coding workshops, hackathons, and build a reputation for Maduka as a tech-savvy institution.
+
+Timeline and Resources
+
+Short-term (July–September 2025): Launch initiatives within two months, with no additional budget required.
+
+Teamwork: 3 lecturers, 20 course reps, and 1 tech-savvy student leading the execution.
+
+
+Benefits and Call to Action
+
+Samuel’s initiatives will enhance student learning, improve exam success rates, and equip students with crucial tech skills, while positioning Maduka as a leader in both education and technology. He’s seeking support from the Vice-Chancellor to approve the recording plan and future budgets for data stipends and Demo Day.
+
+This are my Team mates I would want to take the right step because they have their respective post.
+1. President
+2. Vice President (Academics)
+3. Vice President (Admin)
+4. Director of Information and Public Affairs
+5. Director of Transportation
+6. Director of Environment
+7. Director of Finance
+8. Director of Food and Agriculture
+9. Director of Sports
+10. Director of Religion
+11. Secretary
+12. Director of Security
+13. Director of Welfare
+14. Director of Health
+
+The Project files must always be looked at because it contains samples of proposals I have written initially.
+
+Always take this into consideration before answering me.
